@@ -7,6 +7,6 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 ________________________________________
 # Output
-*hi
+**hi
 ________________________________________
 # Result
